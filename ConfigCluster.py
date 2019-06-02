@@ -17,7 +17,7 @@ class ConfigCluster:
     cmds = client.scp_send(self.filename,'/home/dc')
     joinall(cmds,raise_error=True)
 
-
+  
 
 c = ConfigCluster()
 c.transfer()
