@@ -1,0 +1,5 @@
+ctl-a ctl k for delete line
+or ctl + c
+or ctrl u
+
+
